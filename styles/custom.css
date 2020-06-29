@@ -1,0 +1,87 @@
+.heading
+{
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.margins
+{
+    margin-top: 5%;
+}
+
+.centered {
+    position: absolute;
+    top: 15%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-size: 38px;
+    margin-right: -20%;
+  }
+.lastTextCent
+{
+    position: absolute;
+    top: 90%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-size: 34px;
+    margin-right: -20%;
+}
+.Red
+{
+    color:red;
+}
+.Blue
+{
+    color: blue;
+}
+.Trust
+{
+    font-size: 4rem;
+    color: #17a2b8;;
+    font-weight: bold;
+}
+.Minimal
+{
+    font-size: 4rem;
+    color: red;;
+    font-weight: bold;
+}
+.Investment
+{
+    font-size: 3rem;
+    font-weight: bold;
+    color: #17a2b8;;;
+}
+
+.headtext
+{
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: Red;
+}
+
+.innertxt
+{
+    font-size: 2.5rem;
+    font-size: bold;
+    font-weight: bold;
+}
+
+.buttonBook
+{
+    font-size: 6rem;
+}
+
+.footerTxt
+{
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
